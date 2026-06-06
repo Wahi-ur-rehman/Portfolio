@@ -171,16 +171,6 @@ export default function Hero() {
               <Linkedin className="w-6 h-6 text-gray-300 group-hover:text-blue-400 transition-colors" />
             </motion.a>
 
-            <motion.a
-              href="https://ai-portfolio-seven-liart.vercel.app/"
-              target="_blank"
-              rel="noopener noreferrer"
-              whileHover={{ scale: 1.1, y: -5 }}
-              whileTap={{ scale: 0.95 }}
-              className="p-4 bg-white/5 hover:bg-white/10 backdrop-blur-sm border border-white/10 rounded-full transition-all group"
-            >
-              <Code2 className="w-6 h-6 text-gray-300 group-hover:text-blue-400 transition-colors" />
-            </motion.a>
           </motion.div>
 
           <motion.button
