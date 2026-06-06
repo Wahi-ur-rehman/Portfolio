@@ -141,20 +141,7 @@ export default function Contact() {
               </motion.div>
             </div>
 
-            <div className="pt-6">
-              <h4 className="text-xl font-semibold mb-4">Quick Links</h4>
-              <div className="flex flex-wrap gap-4">
-                <a
-                  href="https://ai-portfolio-seven-liart.vercel.app/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 rounded-lg transition-all shadow-lg hover:shadow-xl"
-                >
-                  <Code2 className="w-4 h-4" />
-                  <span>3D Portfolio</span>
-                </a>
-              </div>
-            </div>
+      
           </motion.div>
 
           <motion.div
